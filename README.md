@@ -1,4 +1,8 @@
-# Elixir Koans
+# Solutions to Elixir Koans
+My solutions to Elixir Koans from the [github repo: https://github.com/elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans)
+The following are instructions from the original author:
+
+## Elixir Koans
 
 [![Build Status](https://travis-ci.org/elixirkoans/elixir-koans.svg?branch=master)](https://travis-ci.org/elixirkoans/elixir-koans)
 
