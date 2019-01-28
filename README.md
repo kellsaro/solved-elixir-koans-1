@@ -1,5 +1,5 @@
-# Solutions to Elixir Koans
-My solutions to Elixir Koans from the [github repo: https://github.com/elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans)
+# Answers to Elixir Koans
+My answers to Elixir Koans from the [github repo: https://github.com/elixirkoans/elixir-koans](https://github.com/elixirkoans/elixir-koans)
 The following are instructions from the original author:
 
 ## Elixir Koans
